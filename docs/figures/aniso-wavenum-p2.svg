@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 874 594" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:10;">
+    <g transform="matrix(2.08333,0,0,2.08333,-885.496,-5.38281)">
+        <g>
+            <g transform="matrix(0,1,-1,0,422.081,18.5685)">
+                <text x="18.568px" y="-409.417px" style="font-family:'HelveticaNeue-Thin', 'Helvetica Neue', sans-serif;font-weight:200;font-size:16px;">Relative W<tspan x="88.194px 96.187px " y="-409.417px -409.417px ">av</tspan>enumber</text>
+                <text x="167.082px" y="-409.417px" style="font-family:'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;font-style:italic;font-size:18.24px;">k</text>
+                <text x="175.169px" y="-409.417px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:18.24px;">/</text>
+                <text x="180.229px" y="-409.417px" style="font-family:'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;font-style:italic;font-size:18.24px;">k</text>
+                <g transform="matrix(10.56,0,0,10.56,195.36,-407.137)">
+                </g>
+                <text x="188.317px" y="-407.137px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:10.56px;">R</text>
+            </g>
+            <g transform="matrix(1,0,0,1,395.76,117.964)">
+                <g transform="matrix(16.32,0,0,16.32,424.32,129.296)">
+                </g>
+                <text x="395.76px" y="129.296px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:16.32px;">1.00</text>
+            </g>
+            <g transform="matrix(1,0,0,1,395.76,81.4917)">
+                <g transform="matrix(16.32,0,0,16.32,424.32,92.8233)">
+                </g>
+                <text x="395.76px" y="92.823px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:16.32px;">1.01</text>
+            </g>
+            <g transform="matrix(1,0,0,1,395.76,45.0192)">
+                <g transform="matrix(16.32,0,0,16.32,424.32,56.3508)">
+                </g>
+                <text x="395.76px" y="56.351px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:16.32px;">1.02</text>
+            </g>
+            <g transform="matrix(1,0,0,1,395.76,8.54672)">
+                <g transform="matrix(16.32,0,0,16.32,424.32,19.8783)">
+                </g>
+                <text x="395.76px" y="19.878px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:16.32px;">1.03</text>
+            </g>
+            <g transform="matrix(0.96,0,0,-0.96,0,260.787)">
+                <rect x="510.266" y="23.622" width="285.856" height="224.409" style="fill:white;stroke:black;stroke-width:1.04px;"/>
+            </g>
+            <g transform="matrix(10,0,0,3.41929,777.998,22.6772)">
+                <clipPath id="_clip1">
+                    <rect x="0" y="0" width="1" height="64"/>
+                </clipPath>
+                <g clip-path="url(#_clip1)">
+                    <clipPath id="_clip2">
+                        <rect x="0" y="0" width="1" height="64"/>
+                    </clipPath>
+                    <g clip-path="url(#_clip2)">
+                        <g transform="matrix(0.048,-0,-0,0.14038,-35.296,-5.87649)">
+                            <use xlink:href="#_Image3" x="735.334" y="41.861" width="21px" height="456px"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(0.96,0,0,-0.96,0,264.189)">
+                <rect x="810.415" y="23.622" width="10.417" height="227.953" style="fill:none;stroke:black;stroke-width:1.04px;"/>
+            </g>
+            <g transform="matrix(0,-0.96,0.96,0,655.904,920.093)">
+                <path d="M706.855,137.598L934.808,137.598" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1.04px;stroke-linecap:butt;"/>
+            </g>
+            <g transform="matrix(0.96,0,0,-0.96,0,264.189)">
+                <path d="M820.832,23.622L818.748,23.622M820.832,38.819L818.748,38.819M820.832,54.016L818.748,54.016M820.832,69.213L818.748,69.213M820.832,84.409L818.748,84.409M820.832,99.606L818.748,99.606M820.832,114.803L818.748,114.803M820.832,130L818.748,130M820.832,145.197L818.748,145.197M820.832,160.394L818.748,160.394M820.832,175.591L818.748,175.591M820.832,190.787L818.748,190.787M820.832,205.984L818.748,205.984M820.832,221.181L818.748,221.181M820.832,236.378L818.748,236.378M820.832,251.575L818.748,251.575" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1.04px;stroke-linecap:butt;"/>
+            </g>
+            <g transform="matrix(0.96,0,0,-0.96,0,264.189)">
+                <path d="M820.832,23.622L816.665,23.622M820.832,99.606L816.665,99.606M820.832,175.591L816.665,175.591M820.832,251.575L816.665,251.575" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1.04px;stroke-linecap:butt;"/>
+            </g>
+            <g transform="matrix(2,0,0,2,0,0)">
+                <clipPath id="_clip4">
+                    <rect x="244.928" y="11.339" width="137.211" height="107.717"/>
+                </clipPath>
+                <g clip-path="url(#_clip4)">
+                    <g transform="matrix(0.480946,0,0,0.481583,243.555,10.2621)">
+                        <use xlink:href="#_Image5" x="0" y="0" width="291px" height="228px"/>
+                    </g>
+                    <g transform="matrix(0.5,0,0,0.5,131.715,8.54461)">
+                        <text x="349.35px" y="28.421px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:16.32px;">1.01</text>
+                        <g transform="matrix(16.32,0,0,16.32,291.99,43.3008)">
+                        </g>
+                        <text x="263.43px" y="43.301px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:16.32px;">1.02</text>
+                    </g>
+                    <g transform="matrix(0.5,0,0,0.5,174.675,12.2646)">
+                        <g transform="matrix(16.32,0,0,16.32,377.91,35.8608)">
+                        </g>
+                        <text x="349.35px" y="35.861px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:16.32px;">1.02</text>
+                    </g>
+                    <g>
+                        <clipPath id="_clip6">
+                            <path d="M305.013,15.615L305.013,24.135L322.053,24.135L322.053,15.615L305.013,15.615ZM244.928,11.339L382.139,11.339L382.139,119.055L244.928,119.055L244.928,11.339ZM262.053,23.057L262.053,31.577L279.093,31.577L279.093,23.057L262.053,23.057ZM347.973,23.057L347.973,31.577L365.013,31.577L365.013,23.057L347.973,23.057Z"/>
+                        </clipPath>
+                        <g clip-path="url(#_clip6)">
+                            <g transform="matrix(0.48,0,0,-0.48,0,68.8182)">
+                                <path d="M510.266,41.407L515.983,41.519L521.7,41.858L527.417,42.429L533.134,43.242L534.529,43.499L538.851,44.256L544.569,45.509L550.286,47.041L553.272,47.984L556.003,48.821L561.72,50.854L565.653,52.469L567.437,53.19L573.154,55.789L575.453,56.955L578.871,58.682L583.779,61.44L584.588,61.896L590.306,65.378L591.15,65.925L596.023,69.124L597.882,70.411L601.74,73.126L604.178,74.896L607.457,77.325L610.211,79.381L613.174,81.641L616.15,83.867L618.891,85.958L622.196,88.352L624.608,90.127L628.656,92.837L630.325,93.966L636.043,97.275L636.148,97.323L641.76,99.785L647.477,101.409L651.533,101.808L653.194,101.964L654.855,101.808L658.911,101.409L664.628,99.785L670.239,97.323L670.345,97.275L676.062,93.966L677.732,92.837L681.78,90.127L684.192,88.352L687.497,85.958L690.238,83.867L693.214,81.641L696.177,79.381L698.931,77.325L702.21,74.896L704.648,73.126L708.506,70.411L710.365,69.124L715.237,65.925L716.082,65.378L721.799,61.896L722.608,61.44L727.517,58.682L730.935,56.955L733.234,55.789L738.951,53.19L740.735,52.469L744.668,50.854L750.385,48.821L753.116,47.984L756.102,47.041L761.819,45.509L767.536,44.256L771.859,43.499L773.254,43.242L778.971,42.429L784.688,41.858L790.405,41.519L796.122,41.407" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;stroke-dasharray:8.33,4.17;"/>
+                            </g>
+                            <g transform="matrix(0.48,0,0,-0.48,0,23.1815)">
+                                <path d="M510.266,23.622L515.983,23.754L521.7,24.168L525.667,24.673" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;stroke-dasharray:8.33,4.17;"/>
+                            </g>
+                            <g transform="matrix(0.48,0,0,-0.48,0,23.1815)">
+                                <path d="M796.122,23.622L790.405,23.754L784.688,24.168L780.721,24.673" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;stroke-dasharray:8.33,4.17;"/>
+                            </g>
+                            <g transform="matrix(0.48,0,0,-0.48,0,44.8959)">
+                                <path d="M510.266,23.622L515.983,23.764L521.7,24.191L527.417,24.91L528.258,25.058L533.134,25.904L538.851,27.198L544.569,28.811L546.744,29.543L550.286,30.737L556.003,32.994L558.292,34.028L561.72,35.598L567.337,38.514L567.437,38.567L573.154,41.897L574.883,42.999L578.871,45.618L581.518,47.484L584.588,49.727L587.499,51.97L590.306,54.218L593.001,56.455L596.023,59.066L598.157,60.94L601.74,64.212L603.072,65.426L607.457,69.557L607.842,69.911" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;stroke-dasharray:8.33,4.17;"/>
+                            </g>
+                            <g transform="matrix(0.48,0,0,-0.48,0,24.658)">
+                                <path d="M510.266,23.622L515.983,23.695L521.7,23.919L527.417,24.317L533.134,24.937L538.851,25.871L544.569,27.291L546.076,27.749" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;stroke-dasharray:8.33,4.17;"/>
+                            </g>
+                            <g transform="matrix(0.48,0,0,-0.48,0,44.8959)">
+                                <path d="M698.546,69.911L698.931,69.557L703.315,65.426L704.648,64.212L708.231,60.94L710.365,59.066L713.387,56.455L716.082,54.218L718.889,51.97L721.799,49.727L724.87,47.484L727.517,45.618L731.505,42.999L733.234,41.897L738.951,38.567L739.05,38.514L744.668,35.598L748.096,34.028L750.385,32.994L756.102,30.737L759.644,29.543L761.819,28.811L767.536,27.198L773.254,25.904L778.13,25.058L778.971,24.91L784.688,24.191L790.405,23.764L796.122,23.622" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;stroke-dasharray:8.33,4.17;"/>
+                            </g>
+                            <g transform="matrix(0.48,0,0,-0.48,0,24.658)">
+                                <path d="M796.122,23.622L790.405,23.695L784.688,23.919L778.971,24.317L773.254,24.937L767.536,25.871L761.819,27.291L760.312,27.749" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;stroke-dasharray:8.33,4.17;"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,304.117,1.12266)">
+                <text x="304.118px" y="13.787px" style="font-family:'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;font-style:italic;font-size:18.24px;">p</text>
+                <g transform="matrix(18.24,0,0,18.24,341.752,13.7873)">
+                </g>
+                <text x="317.792px" y="13.787px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:18.24px;">= 2</text>
+            </g>
+            <g transform="matrix(0,-1,1,0,214.308,77.9544)">
+                <text x="-77.954px" y="228.306px" style="font-family:'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;font-style:italic;font-size:20.16px;">k</text>
+                <text x="-69.009px" y="219.396px" style="font-family:'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;font-style:italic;font-size:12.48px;">h</text>
+                <text x="-62.771px" y="228.306px" style="font-family:'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;font-style:italic;font-size:20.16px;">h</text>
+                <text x="-52.694px" y="228.306px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:20.16px;">/2</text>
+                <g transform="matrix(20.16,0,0,20.16,-26.9197,228.306)">
+                </g>
+                <text x="-37.019px" y="228.306px" style="font-family:'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;font-style:italic;font-size:20.16px;">π</text>
+            </g>
+            <g transform="matrix(1,0,0,1,226.995,115.843)">
+                <g transform="matrix(18.24,0,0,18.24,258.915,128.507)">
+                </g>
+                <text x="226.995px" y="128.507px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:18.24px;">0.00</text>
+            </g>
+            <g transform="matrix(1,0,0,1,226.995,94.2952)">
+                <g transform="matrix(18.24,0,0,18.24,258.915,106.96)">
+                </g>
+                <text x="226.995px" y="106.96px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:18.24px;">0.05</text>
+            </g>
+            <g transform="matrix(1,0,0,1,226.995,72.7552)">
+                <g transform="matrix(18.24,0,0,18.24,258.915,85.4198)">
+                </g>
+                <text x="226.995px" y="85.42px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:18.24px;">0.10</text>
+            </g>
+            <g transform="matrix(1,0,0,1,226.995,51.2077)">
+                <g transform="matrix(18.24,0,0,18.24,258.915,63.8723)">
+                </g>
+                <text x="226.995px" y="63.872px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:18.24px;">0.15</text>
+            </g>
+            <g transform="matrix(1,0,0,1,226.995,29.6677)">
+                <g transform="matrix(18.24,0,0,18.24,258.915,42.3323)">
+                </g>
+                <text x="226.995px" y="42.332px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:18.24px;">0.20</text>
+            </g>
+            <g transform="matrix(1,0,0,1,226.995,8.12016)">
+                <g transform="matrix(18.24,0,0,18.24,258.915,20.7848)">
+                </g>
+                <text x="226.995px" y="20.785px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:18.24px;">0.25</text>
+            </g>
+            <g transform="matrix(1,0,0,1,286.282,135.276)">
+                <text x="286.283px" y="149.274px" style="font-family:'HelveticaNeue-Thin', 'Helvetica Neue', sans-serif;font-weight:200;font-size:16px;">W<tspan x="300.214px 308.209px " y="149.274px 149.274px ">av</tspan>e angle</text>
+                <g transform="matrix(20.16,0,0,20.16,378.854,149.274)">
+                </g>
+                <text x="368.951px" y="149.274px" style="font-family:'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;font-style:italic;font-size:20.16px;">θ</text>
+            </g>
+            <g transform="matrix(1,0,0,1,234.66,122.818)">
+                <text x="234.66px" y="135.482px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:18.24px;">0.00</text>
+                <g transform="matrix(18.24,0,0,18.24,275.718,135.482)">
+                </g>
+                <text x="266.58px" y="135.482px" style="font-family:'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;font-style:italic;font-size:18.24px;">π</text>
+            </g>
+            <g transform="matrix(1,0,0,1,303.263,122.818)">
+                <text x="303.263px" y="135.482px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:18.24px;">0.25</text>
+                <g transform="matrix(18.24,0,0,18.24,344.32,135.482)">
+                </g>
+                <text x="335.183px" y="135.482px" style="font-family:'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;font-style:italic;font-size:18.24px;">π</text>
+            </g>
+            <g transform="matrix(1,0,0,1,371.873,122.818)">
+                <text x="371.873px" y="135.482px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:18.24px;">0.50</text>
+                <g transform="matrix(18.24,0,0,18.24,412.93,135.482)">
+                </g>
+                <text x="403.793px" y="135.482px" style="font-family:'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;font-style:italic;font-size:18.24px;">π</text>
+            </g>
+            <g transform="matrix(0,-0.96,0.96,0,359.461,620.249)">
+                <path d="M398.061,135.827L622.47,135.827" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1.04px;stroke-linecap:butt;"/>
+            </g>
+            <g transform="matrix(0.96,0,0,-0.96,0,260.787)">
+                <path d="M510.266,23.622L518.599,23.622M510.266,68.504L518.599,68.504M510.266,113.386L518.599,113.386M510.266,158.268L518.599,158.268M510.266,203.15L518.599,203.15M510.266,248.031L518.599,248.031" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1.04px;stroke-linecap:butt;"/>
+            </g>
+            <g transform="matrix(0,-0.96,0.96,0,633.883,894.671)">
+                <path d="M683.917,135.827L908.327,135.827" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1.04px;stroke-linecap:butt;"/>
+            </g>
+            <g transform="matrix(0.96,0,0,-0.96,0,260.787)">
+                <path d="M796.122,23.622L787.789,23.622M796.122,68.504L787.789,68.504M796.122,113.386L787.789,113.386M796.122,158.268L787.789,158.268M796.122,203.15L787.789,203.15M796.122,248.031L787.789,248.031" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1.04px;stroke-linecap:butt;"/>
+            </g>
+            <g transform="matrix(0.96,0,0,-0.96,0,476.22)">
+                <path d="M510.266,248.031L796.122,248.031" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1.04px;stroke-linecap:butt;"/>
+            </g>
+            <g transform="matrix(0.96,0,0,-0.96,0,468.22)">
+                <path d="M510.266,239.698L510.266,248.031M653.194,239.698L653.194,248.031M796.122,239.698L796.122,248.031" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1.04px;stroke-linecap:butt;"/>
+            </g>
+            <g transform="matrix(0.96,0,0,-0.96,0,45.3543)">
+                <path d="M510.266,23.622L796.122,23.622" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1.04px;stroke-linecap:butt;"/>
+            </g>
+            <g transform="matrix(0.96,0,0,-0.96,0,53.3543)">
+                <path d="M510.266,31.955L510.266,23.622M653.194,31.955L653.194,23.622M796.122,31.955L796.122,23.622" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1.04px;stroke-linecap:butt;"/>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <image id="_Image3" width="21px" height="456px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAHICAYAAAChwKHTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACLUlEQVR4nO3c2W0DQQwD0N3APaTa1O40QX48UCqAEHVRMzv2+/f7fJ+w/aQBLdDP+xZAnwLqp+Boy1MnpgVPqTptgBZQO56WOgoB7dQp06atRCHF38p+AZSRk/HJL5VUHlNS0yspA7Q1UE6jCNDxKbUdU6f3nbVnPKbj9M/TvDm9f8JXAHWET9r6kJJyEuV4Cn3lkejnQaGSgjRqmr5TUuOr5Hii7nSC0Ic8LQlf/LnU+trjxHS9o85TA9Sh73g6Th+ap4ynRz9vzjtphz6U/e3bHoi+dIcy3lEIfSdRjkSP30w4MV33VJKTPCgkJ86QPuEzQJ2OcqbUJQrpKMfTcfrQM5x7KRu38ZJy1HS9pMY3FEdOmEQ5MR2nD3nKCN/4H4JQMS2AMj+7gRIFxfTop80RPoe+cyd9z3Dy5tC/nzEWQJk6pTwtgEqHM8VTRvepe/7K5EcSNd5RDqgTU6qjbkqlQTv7qSMnF9M4qPOFVzqcIZ5KiXI6CpKTOGYtUUpJOcVfmqfL9KF5yvzshqI/XVJO75fu+qazz9xJO9fH6546A+V58xH4fJW1x1nQoKdNkPBtxxRKFHTZtZ2o7Y76OhvKdvE7njZKCpITJ1GQRjGJGpdoJ1Gd0afQP4lWYgqpKbP0btdp6YPMdkxLm3QcUxp92zF1NpT1LxKdrU8BHV97jn7eWm2aN2pK5e1KKm/QJs3QLw1pxtPxTZpJVKtO8+bQH49p53RSOvLkI/AP1OohjhCdKM0AAAAASUVORK5CYII="/>
+        <image id="_Image5" width="291px" height="228px" xlink:href="data:image/jpeg;base64,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"/>
+    </defs>
+</svg>

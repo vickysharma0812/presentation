@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 3231 915" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-145.455,-83.6424)">
+        <g>
+            <g id="figure-1">
+                <g transform="matrix(1,0,0,1,4.4202,-89.9698)">
+                    <rect x="188.741" y="189.147" width="752.925" height="753.401" style="fill:rgb(235,235,235);stroke:rgb(73,26,230);stroke-width:4.17px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-104.138,-2.14793)">
+                    <text x="368.894px" y="556.627px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">Global unknowns:</text>
+                    <text x="749.436px" y="556.627px" style="font-family:'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;font-style:italic;font-size:50px;">ϕ</text>
+                    <text x="775.315px" y="556.627px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">(</text>
+                    <text x="791.965px" y="556.627px" style="font-family:'TimesNewRomanPS-BoldMT', 'Times New Roman', serif;font-weight:700;font-size:50px;">x</text>
+                    <text x="816.965px" y="556.627px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">, t),</text>
+                    <text x="897.507px" y="556.627px" style="font-family:'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;font-style:italic;font-size:50px;">v</text>
+                    <text x="919.699px" y="556.627px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">(</text>
+                    <text x="936.35px" y="556.627px" style="font-family:'TimesNewRomanPS-BoldMT', 'Times New Roman', serif;font-weight:700;font-size:50px;">x</text>
+                    <g transform="matrix(50,0,0,50,1016.89,556.627)">
+                    </g>
+                    <text x="961.35px" y="556.627px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">, t)</text>
+                </g>
+                <g transform="matrix(1,0,0,1,-134.405,378.905)">
+                    <text x="368.894px" y="556.627px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">Prescribed boundary conditions</text>
+                    <text x="528.867px" y="608.751px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">for</text>
+                    <text x="599.668px" y="608.751px" style="font-family:'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;font-style:italic;font-size:50px;">ϕ</text>
+                    <text x="625.547px" y="608.751px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">(</text>
+                    <text x="642.197px" y="608.751px" style="font-family:'TimesNewRomanPS-BoldMT', 'Times New Roman', serif;font-weight:700;font-size:50px;">x</text>
+                    <text x="667.197px" y="608.751px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">,t),</text>
+                    <text x="735.239px" y="608.751px" style="font-family:'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;font-style:italic;font-size:50px;">v</text>
+                    <text x="757.431px" y="608.751px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">(</text>
+                    <text x="774.082px" y="608.751px" style="font-family:'TimesNewRomanPS-BoldMT', 'Times New Roman', serif;font-weight:700;font-size:50px;">x</text>
+                    <g transform="matrix(50,0,0,50,842.124,608.751)">
+                    </g>
+                    <text x="799.082px" y="608.751px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">,t)</text>
+                </g>
+                <g transform="matrix(1,0,0,1,-83.3308,-612.839)">
+                    <g transform="matrix(50,0,0,50,811.97,1039.78)">
+                    </g>
+                    <text x="418.904px" y="1039.78px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">Continuous domain</text>
+                </g>
+                <g transform="matrix(1.73119,0,0,1.73119,-171.017,-1141.81)">
+                    <g transform="matrix(50,0,0,50,419.447,871.649)">
+                    </g>
+                    <text x="382.288px" y="871.649px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">Ω</text>
+                </g>
+                <g transform="matrix(1,0,0,1,18.0273,-393.446)">
+                    <g transform="matrix(50,0,0,50,909.593,1292.87)">
+                    </g>
+                    <text x="884.593px" y="1292.87px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">x</text>
+                </g>
+                <g transform="matrix(1,0,0,1,6.8375,-399.36)">
+                    <g transform="matrix(50,0,0,50,163.324,532.189)">
+                    </g>
+                    <text x="138.324px" y="532.189px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">y</text>
+                </g>
+            </g>
+            <g id="mesh" transform="matrix(1,0,0,1,-3.92535,-376.585)">
+                <g transform="matrix(1,0,0,1,1229.58,282.601)">
+                    <rect x="188.741" y="189.147" width="752.925" height="753.401" style="fill:rgb(235,235,235);stroke:rgb(73,26,230);stroke-width:4.17px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,188.117,-1.49112)">
+                    <path d="M1420.37,470.571L1420.37,1225.74" style="fill:none;stroke:black;stroke-width:4.17px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,377.117,-1.49112)">
+                    <path d="M1420.37,470.571L1420.37,1225.74" style="fill:none;stroke:black;stroke-width:4.17px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,563.117,-1.49112)">
+                    <path d="M1420.37,470.571L1420.37,1225.74" style="fill:none;stroke:black;stroke-width:4.17px;"/>
+                </g>
+                <g transform="matrix(6.12323e-17,-1,1,6.12323e-17,947.158,2458.46)">
+                    <path d="M1420.37,470.571L1420.37,1225.74" style="fill:none;stroke:black;stroke-width:4.17px;"/>
+                </g>
+                <g transform="matrix(6.12323e-17,-1,1,6.12323e-17,947.158,2269.46)">
+                    <path d="M1420.37,470.571L1420.37,1225.74" style="fill:none;stroke:black;stroke-width:4.17px;"/>
+                </g>
+                <g transform="matrix(6.12323e-17,-1,1,6.12323e-17,947.158,2083.46)">
+                    <path d="M1420.37,470.571L1420.37,1225.74" style="fill:none;stroke:black;stroke-width:4.17px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,1345.52,324.338)">
+                    <g transform="matrix(50,0,0,50,530.012,1039.78)">
+                    </g>
+                    <text x="418.904px" y="1039.78px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">Mesh</text>
+                </g>
+                <g transform="matrix(1.08502,0,0,1.08502,1076.78,251.157)">
+                    <text x="382.288px" y="871.649px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">Ω</text>
+                    <g transform="matrix(29.15,0,0,29.15,434.022,888.299)">
+                    </g>
+                    <text x="419.447px" y="888.299px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:29.15px;">1</text>
+                </g>
+                <g transform="matrix(1.08502,0,0,1.08502,1276.18,247.343)">
+                    <text x="382.288px" y="871.649px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">Ω</text>
+                    <g transform="matrix(29.15,0,0,29.15,434.022,888.299)">
+                    </g>
+                    <text x="419.447px" y="888.299px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:29.15px;">2</text>
+                </g>
+                <g transform="matrix(1,0,0,1,1278.5,38.1575)">
+                    <g transform="matrix(50,0,0,50,909.593,1292.87)">
+                    </g>
+                    <text x="884.593px" y="1292.87px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">x</text>
+                </g>
+                <g transform="matrix(1,0,0,1,1212.03,-32.5626)">
+                    <g transform="matrix(50,0,0,50,163.324,532.189)">
+                    </g>
+                    <text x="138.324px" y="532.189px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">y</text>
+                </g>
+                <g transform="matrix(1,0,0,1,11.0623,29.4589)">
+                    <g transform="matrix(50,0,0,50,1512.64,1095.13)">
+                    </g>
+                    <text x="1487.64px" y="1095.13px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">1</text>
+                </g>
+                <g transform="matrix(1,0,0,1,207.508,29.4589)">
+                    <g transform="matrix(50,0,0,50,1512.64,1095.13)">
+                    </g>
+                    <text x="1487.64px" y="1095.13px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">2</text>
+                </g>
+                <g transform="matrix(1,0,0,1,391.171,28.873)">
+                    <g transform="matrix(50,0,0,50,1512.64,1095.13)">
+                    </g>
+                    <text x="1487.64px" y="1095.13px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">3</text>
+                </g>
+                <g transform="matrix(1,0,0,1,580.907,29.4589)">
+                    <g transform="matrix(50,0,0,50,1512.64,1095.13)">
+                    </g>
+                    <text x="1487.64px" y="1095.13px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">4</text>
+                </g>
+                <g transform="matrix(1,0,0,1,4.47974,-140.599)">
+                    <g transform="matrix(50,0,0,50,1512.64,1095.13)">
+                    </g>
+                    <text x="1487.64px" y="1095.13px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">5</text>
+                </g>
+                <g transform="matrix(1,0,0,1,202.041,-140.261)">
+                    <g transform="matrix(50,0,0,50,1512.64,1095.13)">
+                    </g>
+                    <text x="1487.64px" y="1095.13px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">6</text>
+                </g>
+                <g transform="matrix(1,0,0,1,394.389,-140.657)">
+                    <g transform="matrix(50,0,0,50,1512.64,1095.13)">
+                    </g>
+                    <text x="1487.64px" y="1095.13px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">7</text>
+                </g>
+            </g>
+            <g id="nodes" transform="matrix(1,0,0,1,-3.92535,-376.585)">
+                <g transform="matrix(0.567483,0,0,0.567483,716.455,524.797)">
+                    <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                </g>
+                <g transform="matrix(0.567483,0,0,0.567483,906.455,524.797)">
+                    <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                </g>
+                <g transform="matrix(0.567483,0,0,0.567483,1100.46,524.797)">
+                    <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                </g>
+                <g transform="matrix(0.567483,0,0,0.567483,1286.46,524.797)">
+                    <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                </g>
+                <g transform="matrix(0.567483,0,0,0.567483,1474.46,524.797)">
+                    <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                </g>
+                <g transform="matrix(0.567483,0,0,0.567483,716.455,334.797)">
+                    <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                </g>
+                <g transform="matrix(0.567483,0,0,0.567483,906.455,334.797)">
+                    <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                </g>
+                <g transform="matrix(0.567483,0,0,0.567483,1100.46,334.797)">
+                    <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                </g>
+                <g transform="matrix(0.567483,0,0,0.567483,1286.46,334.797)">
+                    <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                </g>
+                <g transform="matrix(0.567483,0,0,0.567483,1474.46,334.797)">
+                    <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                </g>
+                <g transform="matrix(0.567483,0,0,0.567483,716.455,144.797)">
+                    <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                </g>
+                <g transform="matrix(0.567483,0,0,0.567483,906.455,144.797)">
+                    <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                </g>
+                <g transform="matrix(0.567483,0,0,0.567483,1100.46,144.797)">
+                    <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                </g>
+                <g transform="matrix(0.567483,0,0,0.567483,1286.46,144.797)">
+                    <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                </g>
+                <g transform="matrix(0.567483,0,0,0.567483,1474.46,144.797)">
+                    <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                </g>
+                <g transform="matrix(0.567483,0,0,0.567483,716.455,-43.203)">
+                    <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                </g>
+                <g transform="matrix(0.567483,0,0,0.567483,906.455,-43.203)">
+                    <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                </g>
+                <g transform="matrix(0.567483,0,0,0.567483,1100.46,-43.203)">
+                    <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                </g>
+                <g transform="matrix(0.567483,0,0,0.567483,1286.46,-43.203)">
+                    <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                </g>
+                <g transform="matrix(0.567483,0,0,0.567483,1474.46,-43.203)">
+                    <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                </g>
+                <g transform="matrix(0.567483,0,0,0.567483,716.455,-228.203)">
+                    <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                </g>
+                <g transform="matrix(0.567483,0,0,0.567483,906.455,-228.203)">
+                    <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                </g>
+                <g transform="matrix(0.567483,0,0,0.567483,1100.46,-228.203)">
+                    <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                </g>
+                <g transform="matrix(0.567483,0,0,0.567483,1286.46,-228.203)">
+                    <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                </g>
+                <g transform="matrix(0.567483,0,0,0.567483,1474.46,-228.203)">
+                    <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-111.471,195.19)">
+                    <g transform="matrix(50,0,0,50,1512.64,1095.13)">
+                    </g>
+                    <text x="1487.64px" y="1095.13px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;fill:rgb(242,13,13);">1</text>
+                </g>
+                <g transform="matrix(1,0,0,1,108.329,195.19)">
+                    <g transform="matrix(50,0,0,50,1512.64,1095.13)">
+                    </g>
+                    <text x="1487.64px" y="1095.13px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;fill:rgb(242,13,13);">2</text>
+                </g>
+                <g transform="matrix(1,0,0,1,298.913,194.604)">
+                    <g transform="matrix(50,0,0,50,1512.64,1095.13)">
+                    </g>
+                    <text x="1487.64px" y="1095.13px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;fill:rgb(242,13,13);">3</text>
+                </g>
+                <g transform="matrix(1,0,0,1,484.137,195.19)">
+                    <g transform="matrix(50,0,0,50,1512.64,1095.13)">
+                    </g>
+                    <text x="1487.64px" y="1095.13px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;fill:rgb(242,13,13);">4</text>
+                </g>
+                <g transform="matrix(1,0,0,1,679.289,194.604)">
+                    <g transform="matrix(50,0,0,50,1512.64,1095.13)">
+                    </g>
+                    <text x="1487.64px" y="1095.13px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;fill:rgb(242,13,13);">5</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,-3.92535,-376.585)">
+                <g transform="matrix(1,-0,-0,1,149.38,460.227)">
+                    <path d="M1126.9,360.429L1176.9,385.429L1126.9,410.429C1139.4,397.929 1139.4,372.929 1126.9,360.429Z"/>
+                    <path d="M893.113,385.429L1136.9,385.429" style="fill:none;stroke:black;stroke-width:4.17px;"/>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,1025.07,-910.867)">
+                <g transform="matrix(1,0,0,1.21451,-12.8211,-216.476)">
+                    <rect x="1352.4" y="1009.73" width="1009.44" height="480.83" style="fill:rgb(209,180,167);stroke:rgb(128,128,128);stroke-width:3.75px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-50.2776,3.37096)">
+                    <text x="1470.72px" y="1516.15px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">Finite element mesh is a collection of</text>
+                    <g transform="matrix(50,0,0,50,2041.4,1568.28)">
+                    </g>
+                    <text x="1649.85px" y="1568.28px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">elements and nodes</text>
+                </g>
+                <g id="collection-elements" transform="matrix(1,0,0,1,469.423,-92.2776)">
+                    <g transform="matrix(0.961353,0,0,1.00894,-226.14,92.508)">
+                        <rect x="1224.79" y="1037.53" width="196.573" height="187.302" style="fill:rgb(235,235,235);stroke:black;stroke-width:4.23px;"/>
+                    </g>
+                    <g transform="matrix(0.961353,0,0,1.00894,-134.748,184.786)">
+                        <rect x="1224.79" y="1037.53" width="196.573" height="187.302" style="fill:rgb(235,235,235);stroke:black;stroke-width:4.23px;"/>
+                    </g>
+                    <g transform="matrix(0.961353,0,0,1.00894,-39.7114,277.382)">
+                        <rect x="1224.79" y="1037.53" width="196.573" height="187.302" style="fill:rgb(235,235,235);stroke:black;stroke-width:4.23px;"/>
+                    </g>
+                    <g transform="matrix(1.08502,0,0,1.08502,796.566,491.285)">
+                        <text x="382.288px" y="871.649px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">Ω</text>
+                        <g transform="matrix(29.15,0,0,29.15,434.022,888.299)">
+                        </g>
+                        <text x="419.447px" y="888.299px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:29.15px;">1</text>
+                    </g>
+                    <g transform="matrix(1.08502,0,0,1.08502,647.473,351.814)">
+                        <text x="382.288px" y="871.649px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">Ω</text>
+                        <g transform="matrix(29.15,0,0,29.15,434.022,888.299)">
+                        </g>
+                        <text x="419.447px" y="888.299px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:29.15px;">2</text>
+                    </g>
+                    <g transform="matrix(1.08502,0,0,1.08502,554.877,257.657)">
+                        <text x="382.288px" y="871.649px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">Ω</text>
+                        <g transform="matrix(29.15,0,0,29.15,434.022,888.299)">
+                        </g>
+                        <text x="419.447px" y="888.299px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:29.15px;">3</text>
+                    </g>
+                </g>
+                <g id="collection-nodes" transform="matrix(1,0,0,1,385.812,-91.5065)">
+                    <g>
+                        <g transform="matrix(0.961353,0,0,1.00894,335.3,86.0847)">
+                            <rect x="1224.79" y="1037.53" width="196.573" height="187.302" style="fill:none;stroke:rgb(128,128,128);stroke-width:4.23px;"/>
+                        </g>
+                        <g transform="matrix(0.567483,0,0,0.567483,816.029,431.824)">
+                            <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                        </g>
+                        <g transform="matrix(0.567483,0,0,0.567483,1001.43,431.607)">
+                            <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                        </g>
+                        <g transform="matrix(0.567483,0,0,0.567483,818.017,619.565)">
+                            <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                        </g>
+                        <g transform="matrix(0.567483,0,0,0.567483,1005.15,619.527)">
+                            <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                        </g>
+                    </g>
+                    <g transform="matrix(1,0,0,1,93.6604,98.9048)">
+                        <g transform="matrix(0.961353,0,0,1.00894,335.3,86.0847)">
+                            <rect x="1224.79" y="1037.53" width="196.573" height="187.302" style="fill:none;stroke:rgb(128,128,128);stroke-width:4.23px;"/>
+                        </g>
+                        <g transform="matrix(0.567483,0,0,0.567483,816.029,431.824)">
+                            <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                        </g>
+                        <g transform="matrix(0.567483,0,0,0.567483,1001.43,431.607)">
+                            <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                        </g>
+                        <g transform="matrix(0.567483,0,0,0.567483,818.017,619.565)">
+                            <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                        </g>
+                        <g transform="matrix(0.567483,0,0,0.567483,1005.15,619.527)">
+                            <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                        </g>
+                    </g>
+                    <g transform="matrix(1,0,0,1,189.366,187.805)">
+                        <g transform="matrix(0.961353,0,0,1.00894,335.3,86.0847)">
+                            <rect x="1224.79" y="1037.53" width="196.573" height="187.302" style="fill:none;stroke:rgb(128,128,128);stroke-width:4.23px;"/>
+                        </g>
+                        <g transform="matrix(0.567483,0,0,0.567483,816.029,431.824)">
+                            <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                        </g>
+                        <g transform="matrix(0.567483,0,0,0.567483,1001.43,431.607)">
+                            <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                        </g>
+                        <g transform="matrix(0.567483,0,0,0.567483,818.017,619.565)">
+                            <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                        </g>
+                        <g transform="matrix(0.567483,0,0,0.567483,1005.15,619.527)">
+                            <circle cx="1228.48" cy="1237.62" r="20.813" style="fill:rgb(242,175,13);stroke:black;stroke-width:7.34px;"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,327.821,10.7995)">
+                <text x="2042.58px" y="782.994px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">&quot;Global solutions are approximated by</text>
+                <text x="2042.58px" y="835.118px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">piecewise polynomials,</text>
+                <g transform="matrix(50,0,0,50,2297.99,887.242)">
+                </g>
+                <g transform="matrix(50,0,0,50,2313.15,887.242)">
+                </g>
+                <g transform="matrix(50,0,0,50,2764.08,887.242)">
+                </g>
+                <text x="2042.58px" y="887.242px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;">which are deﬁned over the element&quot;</text>
+            </g>
+        </g>
+    </g>
+</svg>

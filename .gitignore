@@ -1,4 +1,5 @@
 figures/
+!docs/figures/
 .quarto/
 _extensions/
 .DS_Store
