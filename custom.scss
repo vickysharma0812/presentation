@@ -1,0 +1,262 @@
+// Include theme-specific fonts
+$systemFontsSansSerif: -apple-system, BlinkMacSystemFont, avenir next, avenir,
+  segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial,
+  sans-serif;
+$systemFontsMono: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console,
+  monospace;
+
+
+// Catppuccin Latte Palette
+$rosewater: #dc8a78;
+$flamingo:  #dd7878;
+$pink:      #ea76cb;
+$mauve:     #8839ef;
+$red:       #d20f39;
+$maroon:    #e64553;
+$peach:     #fe640b;
+$yellow:    #df8e1d;
+$green:     #40a02b;
+$teal:      #179299;
+$sky:       #04a5e5;
+$sapphire:  #209fb5;
+$blue:      #1e66f5;
+$lavender:  #7287fd;
+
+$text:      #4c4f69;
+$subtext1:  #5c5f77;
+$subtext0:  #6c6f85;
+$overlay2:  #7c7f93;
+$overlay1:  #8c8fa1;
+$overlay0:  #9ca0b0;
+$surface2:  #acb0be;
+$surface1:  #bcc0cc;
+$surface0:  #ccd0da;
+$base:      #eff1f5;
+$mantle:    #e6e9ef;
+$crust:     #dce0e8;
+
+$background: #dce0e8;
+$foreground: #4c4f69;
+$selection: #ccd0da;
+$comment: #5c5f77;
+$jet: $text;
+$accent: $rosewater;
+$accent2: $mauve;
+$right-arrow: "\2192"; // Unicode character for right arrow
+
+// Override theme settings
+$body-color: $text !default;
+$presentation-heading-color: $peach !default;
+$presentation-heading-font-weight: lighter;
+$presentation-font-size-root: 18px;
+$presentation-heading-text-shadow: none !default;
+$presentation-heading-text-transform: none !default;
+$body-bg: $background !default;
+$link-color: $lavender !default;
+$link-color-hover: $rosewater !default;
+$selection-bg: $selection !default;
+$code-color: $flamingo !default;
+$presentation-list-bullet-color: $subtext1 !default;
+
+$font-family-sans-serif: $systemFontsSansSerif !default;
+$font-family-monospace: "Fira Code", $systemFontsMono !default;
+
+// Change text colors against light slide backgrounds
+$light-bg-text-color: $body-bg !default;
+
+$callout-color-note: $lavender !default;
+$callout-color-tip: $teal !default;
+$callout-color-caution: $mauve !default;
+$callout-color-warning: $peach !default;
+$callout-color-important: $rosewater !default;
+
+$tabset-border-color: $surface0 !default;
+$callout-border-color: $surface0 !default;
+
+/*-- scss:rules --*/
+
+// Define additional color effects based on Dracula spec
+// https://spec.draculatheme.com/
+:root {
+  --r-bold-color: #{$mauve};
+  --r-italic-color: #{$rosewater};
+  --r-inline-code-color: #{$code-color};
+  --r-list-bullet-color: #{$presentation-list-bullet-color};
+}
+
+#title-slide {
+  text-align: left;
+
+  .title {
+    color: $body-color;
+    font-size: 1.4em;
+    // font-weight: 350;
+    font-weight: lighter;
+  }
+
+  .subtitle {
+    color: $peach;
+    font-style: italic;
+    margin-top: 0em;
+    font-weight: lighter;
+  }
+
+  .institute,
+  .quarto-title-affiliation,
+  .quarto-title-author-email {
+    font-style: italic;
+    // font-size: 80%;
+    // color: #7F7F7F;
+  }
+
+  .author,
+  .quarto-title-author-name {
+    color: $body-color;
+  }
+
+  .quarto-title-authors {
+    display: flex;
+    justify-content: left;
+
+    .quarto-title-author {
+      padding-left: 0em;
+      padding-right: 0em;
+      width: 100%;
+    }
+  }
+
+}
+
+.reveal h2 {
+  // font-weight: 350;
+  font-weight: lighter;
+  font-size: 1.4em;
+}
+
+.reveal h3 {
+  color: $mauve;
+  font-style: italic;
+  // font-weight: 350;
+  font-weight: lighter;
+  font-size: 0.95em;
+}
+
+.reveal h4 {
+  color: $teal;
+  // font-weight: 350;
+  font-weight: normal;
+  margin-top: 1.25em;
+}
+
+.reveal ul {
+  // font-weight: 300;
+  font-weight: lighter;
+  padding-left: 16px;
+
+  li::marker {
+    color: mix($accent, white, 70%);
+  }
+}
+
+.reveal ul ul {
+  list-style: none;
+
+  li:before {
+    content: $right-arrow;
+    color: mix($accent, white, 60%);
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+    margin-right: 0.5em;
+  }
+}
+
+// Ordered lists
+
+.reveal ol {
+  // font-weight: 300;
+  font-weight: lighter;
+  padding-left: 16px;
+
+  li::marker {
+    color: $accent;
+  }
+}
+
+.reveal a{
+    line-height: 1.5em;
+}
+
+.reveal p {
+    // font-weight: 300;
+    font-weight: lighter;
+    margin-top: 1.25em;
+  }
+
+.reveal strong,
+  b {
+    &:not(.callout-title strong, .callout-tile b) {
+      color: var(--r-bold-color);
+    }
+  }
+
+// Logo to the bottom-left
+.reveal .slide-logo {
+  height: 100px !important;
+  width: 300px !important;
+  max-width: unset !important;
+  max-height: unset !important;
+}
+
+// tables
+.reveal table {
+  // height: auto; /* Adjust table width to fit content up to the available slide space */
+  margin: auto;
+  border-collapse: collapse;
+  border-spacing: 0;
+  font-size: 0.8em;
+}
+
+.reveal table th,
+.reveal table td {
+  border: none; /* Remove internal row lines */
+  padding: .23em; /* Adjust padding as needed */
+  text-align: left; /* Adjust text alignment as needed */
+  font-weight: lighter; /* Lighter font weight for main table text */
+}
+
+/* Adds a bottom border to the table header row for distinction */
+.reveal table thead th,
+.reveal .slides table tr:last-child td,
+.reveal .slides table {
+  border-bottom: 2px solid #D3D3D3; /* Dark grey color for the bottom border */
+}
+
+/* Make column headers bold */
+.reveal table thead th {
+  font-weight: bold;
+}
+
+/* Styling table captions */
+.reveal table caption {
+  color: #666666; /* Dark grey color for the caption */
+  font-variant: small-caps; /* Use small caps for the caption text */
+}
+
+html * {
+  color-profile: sRGB;
+  rendering-intent: auto;
+}
+
+.reveal figure{
+  margin: auto;
+      text-align: center;
+    }
+
+.math.inline .MathJax  {
+  font-size: 90% !important;
+}
+
+.math.display .MathJax  {
+  font-size: 90% !important;
+}
